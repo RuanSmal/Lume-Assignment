@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.generator, #wrap{
+    background-color: #D3D3D3;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    max-width: fit-content;
+    border-radius: 5px;
+}
+
+.btn{
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+#stringReturn{
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#csvFile{
+    margin: auto;
+    margin-left: 16%;
+}
+
+#btnSubmit{
+    margin: auto;
+    margin-left: 31%;
+    margin-top: 15px;
+}
+
+#list{
+    margin-top: 15px;
+}
